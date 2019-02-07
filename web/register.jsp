@@ -17,7 +17,7 @@ and open the template in the editor.
         <form action="FrontController" method="post">
 
            
-            <p>Please fill out this form</p>
+            <p>Register</p>
             <table>
                 <tr>
                     <td>Username: </td><td> <input name="username" size=30 type="text" /> </td> 
